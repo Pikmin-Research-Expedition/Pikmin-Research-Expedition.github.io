@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    text-decoration: none;
+    background-color: darkblue;
+    color: rgb(161, 235, 161);
+    font-family: Poppins;
+    text-align: center;
+    background-image: linear-gradient(green, darkblue);
+}
+
+a:hover {
+    color: rgb(115, 172, 115);
+}
+
+.linktext {
+    text-decoration: none;
+    color: rgb(161, 235, 161);
+    font-size: 100px;
+}
+
+.name {
+    font-size: 70px;
+}
+
